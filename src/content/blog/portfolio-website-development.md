@@ -99,6 +99,6 @@ And... last but not least, I would like to say 'thanks' to my friend [Swann Fevi
 
 ## Project Links
 
-- Website: [https://satnaing.dev/](https://satnaing.dev/ "https://satnaing.dev/")
-- Blog: [https://satnaing.dev/blog](https://satnaing.dev/blog "https://satnaing.dev/blog")
-- Repo: [https://github.com/satnaing/my-portfolio](https://github.com/satnaing/my-portfolio "https://github.com/satnaing/my-portfolio")
+- Website: [https://vipinv.me/](https://vipinv.me/ "https://vipinv.me/")
+- Blog: [https://bloggie.vipinv.me/](https://bloggie.vipinv.me/ "https://bloggie.vipinv.me/")
+- Repo: [https://github.com/Vipin-V/](https://github.com/Vipin-V/ "https://github.com/Vipin-V/")
