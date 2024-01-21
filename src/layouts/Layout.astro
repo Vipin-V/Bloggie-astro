@@ -40,6 +40,11 @@ const socialImageURL = new URL(
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
+    <!-- Vercel Analytics Code -->
+    <script>
+      import { inject } from "@vercel/analytics";
+      inject()
+  </script>
     <!-- Google Analytics Code -->
     <GoogleAnalytics/>
     <meta charset="UTF-8" />
