@@ -1,12 +1,12 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Bloggie"
 ---
 
-In this blog, I will be writing about my projects (what I do/how I did), my personal experiences, and some random stuffs.</br>
+Bloggie is a blog website, I will be writing about my projects (what I do/how I did), my personal experiences, and some random stuffs.</br>
 Read the blog posts or check [my personal website](https://vipinv.me/) for more info..
 
-This website is self-documented \_ which means articles/posts in this website can also be considered as documentations. So, see the documentation for more info.
+This website is self-documented \_ which means articles/posts in this website(Bloggie) can also be considered as documentations. So, see the documentation for more info.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -14,7 +14,7 @@ This website is self-documented \_ which means articles/posts in this website ca
 
 ## Tech Stack
 
-This website is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Bloggie is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
 ## Features
 

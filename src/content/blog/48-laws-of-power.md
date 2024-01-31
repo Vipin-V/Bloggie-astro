@@ -17,6 +17,7 @@ description: This is a book which will teach you psychology of manipulation
 
 ## 1. Never Outshine the Master.
 
+<p style="text-align: justify;"> 
 Galileo was clever - he dedicated his discover of the moons of Jupiter to the Medicis, since the royal symbol of the Medici family was the planet Jupiter.
 
 Wisdom in a nutshell:
@@ -26,6 +27,7 @@ Wisdom in a nutshell:
 - Never take your position for granted.
 - Never let favors you receive go to your head.
 - Discreet flattery is much more powerful. Make it seem like you want to seek his expertise and advise.
+</p>
 
 ## 2. Never Put Too Much Trust in Friends, Learn how to use Enemies.
 
