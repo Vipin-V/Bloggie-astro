@@ -1,7 +1,7 @@
 ---
 title: The Most Exciting and Affordable Travel Destinations for 2024
 author: Vipin V
-pubDatetime: 2024-02-11T10:11:06.130Z
+pubDatetime: 2024-02-10T10:10:06.130Z
 slug: The-Most-Exciting-and-Affordable-Travel-Destinations-for-2024
 featured: false
 draft: false
